@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ####  About Me
-- 👋 Hello World! <b>I am Komal Kavtikwar </b>, Enthusiastic third-year B.Tech Computer Engineering student specializing in Computer Science and Business System (CSBS), with strong coding skills and a dedication to continuous improvement.
+- 👋 Hello World! <b>I am Komal Kavtikwar </b>, Enthusiastic third-year B.Tech Computer Engineering student specializing in Computer Science and Business System (CSBS), with strong coding skills and a dedication to continuous improvement.💡👩🏻‍💻
 - #### Education
   - <b>B.Tech in Computer Science and Business System (CSBS) </b> ,MIT World Peace University (MIT-WPU) - 2022 - Present     
   - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
